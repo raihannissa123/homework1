@@ -1,0 +1,72 @@
+@import url('http://fonts.googleapis.com/css/family=Quicksand:400,500&subset=latin-ext');
+body{
+    padding: 100px;
+    background-image: linear-gradient(-20deg, #FFEBC9 0%, #B05B3B 100%);
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+ul  {
+    margin-left: -45px;
+    list-style-position: center;
+    padding-top: 30px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.main {
+    width: 800px;
+    height: 520px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 3px solid #ED8E7C;
+}
+.img {
+    background-image: url(img.jpeg);
+    background-color: #eaeaea;
+    background-size: cover;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid #ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Baskerville Old Face';
+    padding-top: 10px;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: #FF6767;
+}
+h2 {
+    text-align: center;
+    font-family: 'times new roman';
+    padding-top: 2px;
+    font-size: 20px;
+    margin: 0;
+    color: #1e4250;
+}
+
+.text {
+    text-align: center;
+    font-size:  15px;
+    margin: 0;
+    color: #324e63;
+}
+
+p {
+    margin: 0 auto;
+    font-family: 'sans-serif';
+    padding-top: 20px;
+    width: 450px;
+    height: auto;
+    color: #324e63;
+    font-style: justify;
+}
